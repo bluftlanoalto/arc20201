@@ -1,0 +1,19 @@
+POST http://localhost:5000/gravar
+Content-Type: application/json
+Accept: application/json
+
+{
+    "medida": "high",
+    "marcadores": [
+        {"local": "sky"},
+        {"acao": "fly"},
+         {"nome": "enzo.schier"},
+          {"nuvem": "dark"}
+    ],
+    "valores": [
+        {"estrela": 3},
+        {"lua": 2},
+        {"sol": 1}
+    ]
+    
+}
