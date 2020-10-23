@@ -6,7 +6,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-    "medida": "ideia",
+    "medida": "forma",
     "marcadores": [
         {"local": "quarto"},
         {"personagem": "Matias"},
