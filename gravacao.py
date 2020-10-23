@@ -36,10 +36,10 @@ def ler(baseurl, org, token, intervalo):
 
 if __name__ == "__main__":
     # Criar variáveis do servidor InfluxDB
-    baseurl = "https://eu-central-1-1.aws.cloud2.influxdata.com"
-    org = "enzofutatsugischier@gmail.com"
-    bucket = "enzo"
-    token = "tYxaDqmxk2uDv64PltsZEMls7LyvfsxHFRNHnOeFEDLaTtuUvY324Gr60h-19U-ioYNt5l5BPcYlq1uZy1mylQ=="
+    baseurl = "https://eu-central-1-1.aws.cloud2.influxdata.com/"
+    org = "26d686f8931ea786"
+    bucket = "forma"
+    token = "Rc1g4XdooHHVzjUcAAuDmEMvFaLO6Wj0sUFQk3DOermX8VYrkm6j-NjWJElOG7qA3o1iLfRTKtXvSh0W79ypTA=="
     dados = "pensamento,local=ceu,personagem=aviao,ação=aterrissar latitude=-27.6084177,longitude=-48.6354691,altitude=80"
     intervalo = "1m"
 
