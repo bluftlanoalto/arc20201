@@ -40,7 +40,7 @@ if __name__ == "__main__":
     org = "26d686f8931ea786"
     bucket = "forma"
     token = "Rc1g4XdooHHVzjUcAAuDmEMvFaLO6Wj0sUFQk3DOermX8VYrkm6j-NjWJElOG7qA3o1iLfRTKtXvSh0W79ypTA=="
-    dados = "pensamento,local=ceu,personagem=aviao,ação=aterrissar latitude=-27.6084177,longitude=-48.6354691,altitude=80"
+    dados = "pensamento,local=ceu,personagem=aviao,acao=aterrissar latitude=-27.6084177,longitude=-48.6354691,altitude=80"
     intervalo = "1m"
 
     # Escrita no banco
