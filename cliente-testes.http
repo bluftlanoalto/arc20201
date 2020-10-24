@@ -8,8 +8,8 @@ Accept: application/json
 {
     "medida": "forma",
     "marcadores": [
-        {"local": "quarto"},
-        {"personagem": "Matias"},
+        {"local": "selva"},
+        {"personagem": "leao"},
         {"acao": "sonhando"}
     ],
     "valores": [
@@ -19,7 +19,7 @@ Accept: application/json
     ]
 }
 
-# ideia,local=quarto,personagem=Matias,acao=sonhando latitude=-27,longitude=-48,altitude=80
+# forma,local=selva,personagem=leao,acao=sonhando latitude=-27,longitude=-48,altitude=80
 
 ###
 
